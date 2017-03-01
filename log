@@ -1,0 +1,49 @@
+__author__ = 'Lemon'
+
+version 0.06:
+Done with basic model development, including:
+1, auto detection of three or more in a row, in a column
+2, auto elimination of candies that rules applied
+3, auto reallocation after elimination
+4, auto refill the board with accumulative distributed random candies
+Todo in this version:
+a, automatically apply the complex processes after user play
+b, test the functions
+Next to do:
+iteratively develop game board view for the model
+iteratively develop the controller of the model
+    including: keyboard controller, detects single button play.
+               keyboard controller, detects sequences of keyboard input, as game cheat command
+               mouse controller, single tap, drag.
+
+
+Version 0.1:
+Till now, the game play is done.
+This version, I will be focusing on the development of the animation framework.
+The main work would be to create a animation function, that takes
+sprite, time, easing, and callback as input, and then automatically
+create animations.
+
+Version 0.2
+Unstable animation
+
+Version 0.3
+This version will be focusing on the development of the animation.
+interfaces and so on.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
